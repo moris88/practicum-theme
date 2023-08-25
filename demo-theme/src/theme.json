@@ -1,0 +1,9 @@
+{
+    "label": "Practicum Theme",
+    "preview_path": "./templates/home.html",
+    "enable_domain_stylesheets": false,
+    "author":{
+        "name": "Maurizio Tolomeo",
+        "email": "maurizio.tolomeo@crmpartners.it"
+    }
+}
